@@ -13,7 +13,7 @@ For Interactive:-
 Here, the users need to click on the microphone icon everytime to speak something and then the avatar performs the action 
 associated to the speech.
 
-Seemless:-
+For Seemless:-
 This module is always in a listening mode. Users do not need to hit microphone icon for the communication. To make system 
 perform an action based on your speech, the keyword is "Okay Jarvis". As you speak "Ok Jarvis", the system will be ready to 
 take your speech as an input, parse the grammar and perform an action associated to your speech.
